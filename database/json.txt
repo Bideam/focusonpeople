@@ -1,0 +1,22 @@
+﻿{
+	"_peoplename":"",
+	"_title":"",
+	"_body":"",
+	"_product":[
+		["[书籍] ",""],
+		
+	],
+	"_vedio":[
+		["",""],
+
+		
+	],
+	"_work":[
+		"1979年《且听风吟》获得群像新人文学奖",
+
+	],
+	"_picture":"database/20160324/img/.jpg",
+	"_image":[
+		"database/20160324/img/.jpg",
+	]
+}
