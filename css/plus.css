@@ -1,0 +1,58 @@
+#shell{
+	width: 1000px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background: #fff;
+}
+.common{
+	height: 300px;
+	width: 700px;
+	position: relative;
+	border-bottom: 1px dashed #ccc;
+}
+.sort{
+	width: 100%;
+	height: auto;
+	padding: 0;
+	list-style: none;
+}
+.sort li{
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+.wordfont{
+	font:16px Arial, Helvetica, sans-serif;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.only{
+	color: #96A0A0;
+}
+.pra{
+	width: 540px;
+	height: 165px;
+	text-indent: 2em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	/*white-space: normal;
+	word-break: break-all;*/
+}
+.cover{
+	width: 20%;
+	float: left;
+	
+	height: 200px;
+}
+.cover img{
+	margin-left: 20px;
+
+	margin-top: 20px;
+
+}
+.authority{
+	width: 80%;
+	float: left;
+	padding-top: 5px;
+	height: 200px;
+}
